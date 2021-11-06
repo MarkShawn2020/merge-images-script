@@ -1,0 +1,11 @@
+{
+  "name": "merge_images",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "merge-img": "^2.1.3",
+    "node": "^17.0.1"
+  }
+}
